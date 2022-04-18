@@ -1,0 +1,15 @@
+selectedTheme=theme_Mario
+
+FPS=140
+
+screenWidth=2560
+
+screenHeight=1440
+
+volume=25
+
+difficulty=0
+gamemode=3
+
+fullscreen=1
+
